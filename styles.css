@@ -1,0 +1,16 @@
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: fuchsia;
+}
+
+p {
+    color: white;
+}
+
+img {
+    width: 200px;
+}
+
+body {
+    background: url("http://www.sfihs-sfusd.com/uploads/1/2/1/1/121146984/grad-photo-with-bg2_3_orig.jpg");
+}
